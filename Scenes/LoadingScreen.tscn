@@ -1,0 +1,13 @@
+[gd_scene format=2]
+
+[node name="LoadingScreen" type="Node2D"]
+
+[node name="Panel" type="Panel" parent="."]
+margin_right = 1023.0
+margin_bottom = 600.0
+
+[node name="ProgressBar" type="ProgressBar" parent="."]
+margin_left = 68.0
+margin_top = 403.0
+margin_right = 958.0
+margin_bottom = 441.0
